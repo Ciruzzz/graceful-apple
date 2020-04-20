@@ -1,19 +1,19 @@
-title: Stackbit Fjord Theme
+title: Ciro
 baseURL: /
 params:
   palette: yellow
   header:
-    title: Fjord
+    title: Ciro Di Lauro
     tagline: Minimal and clean blog theme
     logo_img: images/logo.png
     bg_img: images/header-bg.jpg
     has_nav: true
     has_social: true
   footer:
-    content: '&copy; All rights reserved.'
+    content: "&copy; All rights reserved."
     links:
       - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+        url: https://www.stackbit.com
         new_window: true
 disableKinds:
   - RSS
